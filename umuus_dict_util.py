@@ -46,7 +46,7 @@ __keywords__ = []
 __license__ = 'GPLv3'
 __scripts__ = []
 __install_requires__ = [
-    'jmespath>=0.9.3',
+    'jmespath',
 ]
 __classifiers__ = [
     'Intended Audience :: Developers',
